@@ -1,1 +1,1 @@
-"# LZSS" 
+# LZW Implementation
